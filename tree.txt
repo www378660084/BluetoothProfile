@@ -1,0 +1,167 @@
+卷 软件 的文件夹 PATH 列表
+卷序列号为 0066006F 000E:F8AC
+D:.
+│  ANP_SPEC_V10.pdf
+│  ANS_SPEC_V10.pdf
+│  AVRCP_SPEC_V14r00.pdf
+│  BAS_SPEC_V10 (2).pdf
+│  BLP_V10r00.pdf
+│  BLS_V10r00.pdf
+│  CPP_V10.pdf
+│  CPS_V10.pdf
+│  CSCP_SPEC_V10.pdf
+│  CSCS_SPEC_V10.pdf
+│  CTS_SPEC_V10.pdf
+│  DIS_SPEC_V11r00.pdf
+│  FMP_SPEC_V10.pdf
+│  GLP_SPEC_V10.pdf
+│  GLS_SPEC_V10.pdf
+│  GOEP_SPEC_V1.1.pdf
+│  HIDS_SPEC_V10.pdf
+│  HOGP_SPEC_V10.pdf
+│  HRP_V10.pdf
+│  HRS_SPEC_V10.pdf
+│  HTP_V10.pdf
+│  HTS V10.pdf
+│  IAS_SPEC_V10.pdf
+│  LLS_SPEC_V10.pdf
+│  LNP_V10.pdf
+│  LNS_V10.pdf
+│  NDCS_SPEC_V10.pdf
+│  PASP_SPEC_V10.pdf
+│  PASS_SPEC_V10.pdf
+│  PXP_SPEC_V10.pdf
+│  RSCP_SPEC_V10.pdf
+│  RSCS_SPEC_V10.pdf
+│  RTUS_SPEC_V10.pdf
+│  ScPP_SPEC_V10.pdf
+│  ScPS_SPEC_V10.pdf
+│  TIP_SPEC_V10.pdf
+│  TPS_SPEC_V10.pdf
+│  tree.txt
+│  
+├─3DSP=3D Synchronization Profile
+│      3DS_SPEC_V10.pdf
+│      3DS_SPEC_V101.pdf
+│      
+├─A2DP=Advanced Audio Distribution Profile
+│      A2DP spec v10.pdf
+│      A2DP_SPEC_V12.pdf
+│      A2DP_SPEC_V13.pdf
+│      
+├─AVCTP=AV Control Transport (Qualifiable)
+│      AVCTP Spec v1_0.pdf
+│      AVCTP_SPEC_V12.pdf
+│      AVCTP_SPEC_V13r00.pdf
+│      AVCTP_SPEC_V14.pdf
+│      
+├─AVDTP=AV Distribution Transport (Qualifiable)
+│      AVDTP Spec v10.pdf
+│      AVDTP_SPEC_V12.pdf
+│      AVDTP_SPEC_V13.pdf
+│      
+├─AVRCP=AV Remote Control Profile
+│      AVRCP Spec v10.pdf
+│      AVRCP_SPEC_V13.pdf
+│      AVRCP_SPEC_V14r00.pdf
+│      AVRCP_SPEC_V15.pdf
+│      
+├─BIP=Basic Imaging Profile
+│      BIP_Spec_1_0_Final_a_2003_07_25.pdf
+│      BIP_SPEC_V11r00.pdf
+│      BIP_SPEC_V12.pdf
+│      
+├─BNEP=Bluetooth Network Encapsulation Protocol (Qualifiable)
+│      BNEP Specification.pdf
+│      
+├─BPP=Basic Printing Profile
+│      BPP_SPEC_V10.pdf
+│      BPP_SPEC_V12r00.pdf
+│      
+├─Core
+│      Core v2.0 + EDR.pdf
+│      Core_V2.1+EDR.pdf
+│      Core_V3.0 + HS.pdf
+│      Core_V4.0.pdf
+│      Core_v4.1.pdf
+│      
+├─DI=Device ID Profile
+│      DeviceID_SPEC_V13.pdf
+│      DI_SPEC_V12r00.pdf
+│      
+├─DUN=Dial-Up Networking Profile
+│      DUN_SPEC_V12.pdf
+│      
+├─FTP=File Transfer Profile
+│      12_file_transfer.pdf
+│      FTP_SPEC_V12r00.pdf
+│      FTP_SPEC_V13.pdf
+│      
+├─GAVDP=Generic AV Distribution Profile
+│      GAVDP Spec v10.pdf
+│      GAVDP_SPEC_V12.pdf
+│      GAVDP_SPEC_V13.pdf
+│      
+├─GOEP=Generic Object Exchange Profile
+│      GOEP_SPEC_V1.1.pdf
+│      GOEP_SPEC_V20r00.pdf
+│      GOEP_SPEC_V21.pdf
+│      
+├─HFP=Hands-Free Profile
+│      HFP 1.5_SPEC_V10.pdf
+│      HFP_SPEC_V16.pdf
+│      
+├─HID=Human Interface Device Profile
+│      HID Spec v1_0.pdf
+│      HID_SPEC_V11.pdf
+│      
+├─HSP=Headset Profile
+│      6_headset.pdf
+│      HSP_SPEC_V12.pdf
+│      
+├─IrDA=IrDA Interoperability
+│      IRDA_SPEC_V20r00.pdf
+│      
+├─MAP=Message Access Profile
+│      MAP_SPEC_V10.pdf
+│      MAP_SPEC_V11.pdf
+│      MAP_SPEC_V12.pdf
+│      
+├─MCAP=Multi-Channel Adaptation Protocol (Qualifiable)
+│      MCAP_SPEC_V10.pdf
+│      
+├─OPP=Object Push Profile
+│      11_Object_push.pdf
+│      OPP_SPEC_V12r00.pdf
+│      
+├─PAN=Personal Area Networking Profile
+│      PAN Profile v1.0.pdf
+│      
+├─PBAP=Phone Book Access Profile
+│      PBAP_SPEC_V10.pdf
+│      PBAP_SPEC_V111.pdf
+│      PBAP_SPEC_V11r00(Phone_Book_Access_Profile).pdf
+│      PBAP_SPEC_V11r00.pdf
+│      PBAP_SPEC_V12.pdf
+│      SAP_SPEC_V11(SIM_Access_Profile).pdf
+│      电话本格式vCard-30.pdf
+│      
+├─RFCOMM=RFCOMM (Qualifiable)
+│      rfcomm.pdf
+│      RFCOMM_SPEC_V12.pdf
+│      
+├─SAP=SIM Access Profile
+│      SAP_SPEC_V10.pdf
+│      SAP_SPEC_V11.pdf
+│      
+├─SDAP=Service Discovery Application Profile
+│      2_sdp.pdf
+│      
+├─SPP=Serial Port Profile
+│      5_serial_port.pdf
+│      SPP_SPEC_V12.pdf
+│      
+└─VDP=Video Distribution Profile
+        VDP_SPEC_V10r00.pdf
+        VDP_SPEC_V11.pdf
+        
